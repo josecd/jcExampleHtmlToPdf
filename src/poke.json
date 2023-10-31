@@ -1,0 +1,36 @@
+{
+  "pokemons": [
+    {
+      "nombre": "Pikachu",
+      "tipo": "Eléctrico",
+      "altura": "0.4 m",
+      "peso": "6.0 kg",
+      "habilidades": [
+        "Electricidad estática",
+        "Pararrayos"
+      ]
+    },
+    {
+      "nombre": "Charizard",
+      "tipo": "Fuego/Volador",
+      "altura": "1.7 m",
+      "peso": "90.5 kg",
+      "habilidades": [
+        "Mar llamas",
+        "Poder solar"
+      ]
+    },
+    {
+      "nombre": "Bulbasaur",
+      "tipo": "Planta/Veneno",
+      "altura": "0.7 m",
+      "peso": "6.9 kg",
+      "habilidades": [
+        "Espesura",
+        "Clorofila"
+      ]
+    }
+  ],
+  "titulo": "Este es el título del json",
+  "titulo2": ""
+}
